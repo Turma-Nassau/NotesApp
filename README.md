@@ -13,8 +13,8 @@ Este é um aplicativo de anotações simples desenvolvido com React.
 
 ## 🛠️ Stack utilizada
 
-React
-Material-UI
+- React
+- Material-UI
 
 ## Instalação
 
