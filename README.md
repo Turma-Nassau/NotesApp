@@ -4,7 +4,7 @@ Este é um aplicativo de anotações simples desenvolvido com React.
 ## Funcionalidades 📌
 
 - Criar uma nova anotação com título, detalhes, importância e cor.
-- Mensagem de erro.
+- Mensagem de erro caso não preencha os campos.
 - Visualizar todas as anotações existentes.
 - Excluir uma anotação.
 
